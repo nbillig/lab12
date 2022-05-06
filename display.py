@@ -1,4 +1,4 @@
-
+#Displays ASCII art
 class Display:
     ascii_art = [
 '''
